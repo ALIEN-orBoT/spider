@@ -4,26 +4,33 @@
 
 
 ##### 爬代理IP
-ProxyIP_with_urllib.py （使用urllib模块）
+ProxyIP_with_urllib.py
 
 ProxyIP.py
 
 
 
-##### 爬豆瓣 ./douban/
+##### 爬论文 ./papers/
 
-DouBanMoiveTop250.py - 爬取豆瓣电影TOP250
+MachineLearning/ 爬机器学习论文 (使用scrapy框架)
+
+
 
 
 ##### 爬资料 ./articles/
 wenwang.py - 爬中国文库网付费文档
 
-##### 爬论文
-
-（scrapy框架）
 
 
+##### 爬豆瓣 ./douban/
 
-ps.
-wkhtmltopdf是一款html转pdf的命令行工具
+DouBanMoiveTop250.py - 爬豆瓣电影TOP250
+
+
+
+
+
+ps.html转pdf用到的工具
+
+wkhtmltopdf
 https://wkhtmltopdf.org/downloads.html

@@ -27,10 +27,14 @@ wenwang.py - 爬中国文库网付费文档
 DouBanMoiveTop250.py - 爬豆瓣电影TOP250
 
 
+##### 其他
+./pneumoniaView/ 采集疫情数据，制作可视化地图
 
 
 
-ps.html转pdf用到的工具
+
+##### ps.
+html转pdf用到的工具
 
 wkhtmltopdf
 https://wkhtmltopdf.org/downloads.html
